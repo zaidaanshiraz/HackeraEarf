@@ -1,0 +1,364 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UVa/UVa/.idea
+/UVa/UVa/cmake-build-debug
+/Hakerearth/Bit manipulation/.vs/Bit manipulation/v15
+/Hakerearth/Bit manipulation/Bit manipulation/Release
+/Hakerearth/Bit manipulation/Bit manipulation/Debug
+/Hakerearth/Bit manipulation/Bit manipulation/Release
+/Hakerearth/Bit manipulation/Bit manipulation/Debug
+/Hakerearth/Bit manipulation/Release
+/Hakerearth/Bit manipulation/Debug
+*.exe
+*.exe
+/Hakerearth/Bit manipulation/Bit manipulation/x64/Debug
+/Hakerearth/Bit manipulation/Bit manipulation/x64/Debug
+/Hakerearth/Bit manipulation/x64/Debug
+/Books/Competitive Programming 3/chapter-1/exercise-1.2.3/C++/.vs/C++/v15
+/Books/Competitive Programming 3/chapter-1/exercise-1.2.3/Java/.idea
+/Books/Competitive Programming 3/chapter-1/exercise-1.2.3/C++/Debug
+/Books/Competitive Programming 3/chapter-1/exercise-1.2.3/C++/C++/Debug
+/Books/Competitive Programming 3/chapter-1/exercise-1.2.3/Java/out/production/1
+*.iml
+/Hackerrank/Goldman Sachs CodeSprint/Debug
+/Hackerrank/Goldman Sachs CodeSprint/.vs/Goldman Sachs CodeSprint/v15
+/Hackerrank/Goldman Sachs CodeSprint/Goldman Sachs CodeSprint/Debug
+/Books/Competitive Programming 3/chapter-1/exercise-1.3.2/.idea
+/Books/Competitive Programming 3/chapter-1/exercise-1.3.2/out/production/exercise-1.3.2
+/Hackerrank/Algorithms/Sorting/The Full Counting Sort/.vs/The Full Counting Sort/v15
+/Hackerrank/Algorithms/Sorting/The Full Counting Sort/The Full Counting Sort/x64/Debug
+/Hackerrank/Algorithms/Sorting/The Full Counting Sort/x64/Debug
+/UVa/Super easy/.vs/Super easy/v15
+/UVa/Super easy/Super easy/x64/Debug
+/UVa/Super easy/Super easy/Debug
+/UVa/Super easy/x64/Debug
+/UVa/Easy/.vs/Easy/v15
+/UVa/Easy/Debug
+/UVa/Easy/Easy/Debug
+/UVa/Medium/.vs/Medium/v15
+/UVa/Medium/Debug
+/UVa/Medium/Medium/Debug
+/Hakerearth/August circuits '17/.vs/August circuits '17/v15
+/Hakerearth/August circuits '17/August circuits '17/Debug
+/Hakerearth/August circuits '17/Debug
+/UVa/Ad hoc/.vs/Ad hoc/v15
+/UVa/Ad hoc/Ad hoc/Debug
+/UVa/Ad hoc/Debug
+/.vs
+/UVa/Ad hoc/Bridge hand evaluator/Debug
+/UVa/Ad hoc/What is the card/Debug
+/UVa/Ad hoc/Chess/Debug
+/UVa/Ad hoc/How many  knights/Debug
+/UVa/Ad hoc/Chessboard in FEN/Debug
+/UVa/Ad hoc/Hangman judge/Debug
+/UVa/Ad hoc/Minesweeper/Debug
+/UVa/Ad hoc/Snakes and ladders/Debug
+/UVa/Ad hoc/Bowling/Debug
+/UVa/Ad hoc/Traditional BINGO/Debug
+/UVa/Ad hoc/Bowling/x64/Debug
+/UVa/Ad hoc/Bridge hand evaluator/x64/Debug
+/UVa/Ad hoc/Chess/x64/Debug
+/UVa/Ad hoc/Chessboard in FEN/x64/Debug
+/UVa/Ad hoc/Hangman judge/x64/Debug
+/UVa/Ad hoc/How many  knights/x64/Debug
+/UVa/Ad hoc/Minesweeper/x64/Debug
+/UVa/Ad hoc/Snakes and ladders/x64/Debug
+/UVa/Ad hoc/Traditional BINGO/x64/Debug
+/UVa/Ad hoc/What is the card/x64/Debug
+/UVa/Ad hoc/x64/Debug
+/UVa/Ad hoc/Palindromes/x64/Debug
+/UVa/Ad hoc/Mother bear/x64/Debug
+/UVa/Ad hoc/Magic square palindromes/x64/Debug
+/UVa/Ad hoc/.vs
+/UVa/Ad hoc/Ananagrams/x64/Debug
+/UVa/Ad hoc/Anagram/x64/Debug
+/UVa/Ad hoc/Anagrams/x64/Debug
+/UVa/Ad hoc/Booklet printing/x64/Debug
+/UVa/Ad hoc/Beat the spread/x64/Debug
+/UVa/Ad hoc/Traffic lights/x64/Debug
+/UVa/Ad hoc/Postscript/x64/Debug
+/UVa/Ad hoc/Counterfeit dollar/x64/Debug
+/UVa/Ad hoc/Consanguine calculations/x64/Debug
+/UVa/Ad hoc/Clock hands/x64/Debug
+/Hakerearth/September circuits '17/.vs/September circuits '17/v15
+/Hakerearth/September circuits '17/Debug
+/Hakerearth/September circuits '17/September circuits '17/Debug
+/UVa/Ad hoc/Cancer or scorpio/.idea
+/UVa/Ad hoc/Cancer or scorpio/out/production/Cancer or scorpio
+/UVa/Ad hoc/Y3K/.idea
+/UVa/Ad hoc/Y3K/out/production/Y3K
+/Hakerearth/September circuits '17/Bricks and building/Debug
+/Hakerearth/September circuits '17/Little shino and k ancestors/Debug
+/Hakerearth/September circuits '17/Little shino and number of divisors/.idea
+/Hakerearth/September circuits '17/Little shino and number of divisors/Debug
+/UVa/Ad hoc/All integer average/x64/Debug
+/UVa/Ad hoc/Mobile casanova/x64/Debug
+/UVa/Easy/Easy/x64/Debug
+/UVa/Easy/Event planning/x64/Debug
+/UVa/Easy/Horror dash/x64/Debug
+/UVa/Easy/x64/Debug
+/UVa/Medium/Bender B Rodriguez/x64/Debug
+/UVa/Medium/Request for proposal/x64/Debug
+/UVa/Medium/The snail/x64/Debug
+/UVa/Medium/x64/Debug
+/UVa/Linear DS builtin lib/.vs/Jolly jumpers/v15
+/UVa/Linear DS builtin lib/Jolly jumpers/x64/Debug
+/UVa/Linear DS builtin lib/x64/Debug
+/UVa/Linear DS builtin lib/.vs/Linear DS builtin lib/v15
+/UVa/Linear DS builtin lib/Newspaper/x64/Debug
+/UVa/Linear DS builtin lib/.vs
+/UVa/Linear DS builtin lib/Army buddies/x64/Debug
+/UVa/Linear DS builtin lib/Rotated squares/x64/Debug
+/UVa/Linear DS builtin lib/Spiral tap/x64/Debug
+/UVa/UVa/.vs
+/UVa/UVa/All integer average/x64/Debug
+/UVa/UVa/Anagram/x64/Debug
+/UVa/UVa/Anagrams/x64/Debug
+/UVa/UVa/Ananagrams/x64/Debug
+/UVa/UVa/Beat the spread/x64/Debug
+/UVa/UVa/Booklet printing/x64/Debug
+/UVa/UVa/Bowling/x64/Debug
+/UVa/UVa/Bridge hand evaluator/x64/Debug
+/UVa/UVa/Cancer or scorpio/.idea
+/UVa/UVa/Cancer or scorpio/out/production/Cancer or scorpio
+/UVa/UVa/Chess/x64/Debug
+/UVa/UVa/Chessboard in FEN/x64/Debug
+/UVa/UVa/Clock hands/x64/Debug
+/UVa/UVa/Consanguine calculations/x64/Debug
+/UVa/UVa/Counterfeit dollar/x64/Debug
+/UVa/UVa/Hangman judge/x64/Debug
+/UVa/UVa/How many  knights/x64/Debug
+/UVa/UVa/Magic square palindromes/x64/Debug
+/UVa/UVa/Minesweeper/x64/Debug
+/UVa/UVa/Mobile casanova/x64/Debug
+/UVa/UVa/Mother bear/x64/Debug
+/UVa/UVa/Palindromes/x64/Debug
+/UVa/UVa/Postscript/x64/Debug
+/UVa/UVa/Snakes and ladders/x64/Debug
+/UVa/UVa/Traditional BINGO/x64/Debug
+/UVa/UVa/Traffic lights/x64/Debug
+/UVa/UVa/What is the card/x64/Debug
+/UVa/UVa/x64/Debug
+/UVa/UVa/Y3K/.idea
+/UVa/UVa/Y3K/out/production/Y3K
+/UVa/UVa/Event planning/x64/Debug
+/UVa/UVa/Horror dash/x64/Debug
+/UVa/Cost cutting/x64/Debug
+/UVa/UVa/Cost cutting/x64/Debug
+/UVa/UVa/Division of nlogonia/x64/Debug
+/UVa/UVa/Relational operators/x64/Debug
+/UVa/UVa/Bender B Rodriguez/x64/Debug
+/UVa/UVa/Request for proposal/x64/Debug
+/UVa/UVa/The snail/x64/Debug
+/UVa/UVa/Army buddies/x64/Debug
+/UVa/UVa/Grid successor/x64/Debug
+/UVa/UVa/Jolly jumpers/x64/Debug
+/UVa/UVa/Newspaper/x64/Debug
+/UVa/UVa/Rotated squares/x64/Debug
+/UVa/UVa/Spiral tap/x64/Debug
+/UVa/.vs/UVa/v15
+/UVa/All integer average/x64/Debug
+/UVa/Anagram/x64/Debug
+/UVa/Anagrams/x64/Debug
+/UVa/Ananagrams/x64/Debug
+/UVa/Army buddies/x64/Debug
+/UVa/Beat the spread/x64/Debug
+/UVa/Bender B Rodriguez/x64/Debug
+/UVa/Booklet printing/x64/Debug
+/UVa/Bowling/x64/Debug
+/UVa/Bridge hand evaluator/x64/Debug
+/UVa/Cancer or scorpio/.idea
+/UVa/Cancer or scorpio/out/production/Cancer or scorpio
+/UVa/Chess/x64/Debug
+/UVa/Chessboard in FEN/x64/Debug
+/UVa/Clock hands/x64/Debug
+/UVa/Consanguine calculations/x64/Debug
+/UVa/Counterfeit dollar/x64/Debug
+/UVa/Division of nlogonia/x64/Debug
+/UVa/Event planning/x64/Debug
+/UVa/Grid successor/x64/Debug
+/UVa/Hangman judge/x64/Debug
+/UVa/Horror dash/x64/Debug
+/UVa/How many  knights/x64/Debug
+/UVa/Jolly jumpers/x64/Debug
+/UVa/Magic square palindromes/x64/Debug
+/UVa/Minesweeper/x64/Debug
+/UVa/Mobile casanova/x64/Debug
+/UVa/Mother bear/x64/Debug
+/UVa/Newspaper/x64/Debug
+/UVa/Palindromes/x64/Debug
+/UVa/Postscript/x64/Debug
+/UVa/Relational operators/x64/Debug
+/UVa/Request for proposal/x64/Debug
+/UVa/Rotated squares/x64/Debug
+/UVa/Snakes and ladders/x64/Debug
+/UVa/Spiral tap/x64/Debug
+/UVa/The snail/x64/Debug
+/UVa/Traditional BINGO/x64/Debug
+/UVa/Traffic lights/x64/Debug
+/UVa/What is the card/x64/Debug
+/UVa/x64/Debug
+/UVa/Y3K/.idea
+/UVa/Y3K/out/production/Y3K
+/UVa/ID codes/x64/Debug
+/UVa/What is the median/x64/Debug
+/UVa/Contest scoreboard/x64/Debug
+/UVa/Multitasking/x64/Debug
+/Hackerearth/Gary and queries/Debug
+/Hackerearth/Hackerearth/.vs/Hackerearth/v15
+/Hackerearth/Hackerearth/Debug
+/Hackerearth/Hackerearth/K devices/Debug
+/Hackerearth/.vs/Hackerearth/v15
+/Hackerearth/Bricks and building/Debug
+/Hackerearth/Bricks and building/x64/Debug
+/Hackerearth/Coin game/Debug
+/Hackerearth/Coin game/x64/Debug
+/Hackerearth/Count the bits/x64/Debug
+/Hackerearth/Debug
+/Hackerearth/Gary and queries/x64/Debug
+/Hackerearth/Jarvis and lone integer/x64/Debug
+/Hackerearth/K devices/Debug
+/Hackerearth/K devices/x64/Debug
+/Hackerearth/Little shino and k ancestors/x64/Debug
+/Hackerearth/Little shino and number of divisors/x64/Debug
+/Hackerearth/Monk and the box of cookies/x64/Debug
+/Hackerearth/Sherlock and XOR/x64/Debug
+/Hackerearth/Subham and binary strings/x64/Debug
+/Hackerearth/x64/Debug
+/UVa/Splitting numbers/x64/Debug
+/UVa/.vs
+/UVa/Broken keyboard/x64/Debug
+/Hackerearth/Card game/x64/Debug
+/Hackerearth/Polynomial sign/x64/Debug
+/UVa/Rails/x64/Debug
+/UVa/Anagrams by stack/x64/Debug
+/UVa/The lonesome cargo distributor/x64/Debug
+/UVa/Ferry loading III/x64/Debug
+/UVa/Ferry loading IV/x64/Debug
+/Books/Competitive Programming 3/chapter-2/exercises/.vs/exercises/v15
+/Books/Competitive Programming 3/chapter-2/exercises/CD/x64/Debug
+/Books/Competitive Programming 3/chapter-2/exercises/x64/Debug
+/Hackerrank/Hackerrank/.vs/Hackerrank/v15
+/Hackerrank/Hackerrank/Strong password/x64/Debug
+/Hackerrank/Hackerrank/x64/Debug
+/UVa/Hardwood species/x64/Debug
+/UVa/Conformity/x64/Debug
+/UVa/Unique snowflakes/x64/Debug
+/UVa/Lemmings battle/x64/Debug/Lemmings battle.tlog
+/UVa/Lemmings battle/x64/Debug
+/UVa/Hoax or what/x64/Debug
+/UVa/Argus/x64/Debug
+/UVa/Add all/x64/Debug
+/UVa/I can guess the data structure/x64/Debug
+/Hackerrank/Hackerrank/The salesman/x64/Debug/The salesman.tlog
+/Hackerrank/Hackerrank/The salesman/x64/Debug
+/UVa/The forest for the trees/x64/Debug
+/UVa/Matrix transpose/x64/Debug
+/UVa/Easy problem from rujia liu/x64/Debug
+/UVa/Network connections/x64/Debug
+/UVa/Waking up brain/x64/Debug
+/UVa/Virtual friends/x64/Debug
+/UVa/Frequent values/x64/Debug
+/UVa/out/production/UVa
+/UVa/Ahoy pirates/x64/Debug
+/Google code jam/.idea
+/Google code jam/cmake-build-debug
+/UVa/Interval product/x64/Debug
+/leetcode/build
+/UVa/UVa/build
+/leetcode/.vscode
+/Hackerrank/Hackerrank/.idea
+/Hackerrank/Hackerrank/build
+/Hackerrank/Hackerrank/cmake-build-debug
+/Codechef/.idea
+/Codechef/build
+/Codechef/cmake-build-debug
+/Hackerearth/Quesion paper/x64/Debug
+/Hackerearth/build
+/Codechef/Compete/2018/November challenge/GMEDIAN/.idea
+/Codechef/Compete/2018/November challenge/GMEDIAN/out/production/GMEDIAN
+/Google/Kickstart/.idea
+/Google/Kickstart/cmake-build-debug
+/Google/Kickstart/2018/A/A/Even digits/.idea
+/Google/Kickstart/2018/A/A/Even digits/out/production/Even digits
+/Codeforces/build
+/UVa/UVa/.vscode
+/UVa/UVa/Problem solving paradigms/Dynamic programming/Non classical/11420/Chest of drawers/.idea
+/UVa/UVa/Problem solving paradigms/Dynamic programming/Non classical/11420/Chest of drawers/out/production/Chest of drawers
+/Topcoder/build
+/UVa/.vscode
+/UVa/build
+/Hackerrank/build
+/Hackerearth/.vscode
+/Hackerearth/Practice/Dynamic programming/Pseudo-equal numbers/.idea
+/Hackerearth/Practice/Dynamic programming/Pseudo-equal numbers/out/production/Pseudo-equal numbers/BruteForce
+/Hackerearth/Practice/Dynamic programming/Pseudo-equal numbers/out/production/Pseudo-equal numbers
+/Codeforces/.vscode/ipch/e1a55460ee2ef274
+/Codeforces/.vscode/ipch/40db8a8af77ffafe
+/Google/Kickstart/.vscode/ipch/c2bf7a23d73702c3
+/Google/Kickstart/build
+/Codeforces/.vscode/ipch/c04484b45c802b
+/Codeforces/.vscode/ipch/638db67877495507
+/Codeforces/.vscode/ipch/b63eee0fa4e5c6c2
+/Codeforces/.vscode/ipch/132b8ce0bc1098e0
+/Codechef/.vs
+/Codechef/.vscode/ipch
+/Google/Google code jam/.vscode/ipch
+/Google/Google code jam/build/.vs/Google_code_jam/v16
+/Google/Google code jam/build
+/Google/Kickstart/.vscode/ipch/7386bd3038ee72
+/Codeforces/.vscode
+/Hackerrank/.vscode/ipch/cc3c5f5352915534
+/Techgig/.vscode/ipch/76461922ad509ced
+/Techgig/build/.vs/Techgig/v16
+/Techgig/build
+/Codechef/.vscode/ipch/64b878303e7c60e7
+/Google/Google code jam/.vscode/ipch/d4d76b856229e2aa
+/Google/Google code jam/build
+/Google/Google code jam/.vscode/ipch/78005eb1e68955b2
+/Codechef/.vscode/ipch/62a991d3f19859e8
+/Codechef/.vscode/ipch/b857bc594a47a943
+/Codechef/.vscode/ipch/f2e208d991e040ea
+/Google/Kickstart/.vscode/ipch/7386bd3038ee72
+/Techgig/build
+/Techgig/.vscode/ipch/76461922ad509ced
+/Hackerrank/.vscode/ipch/cc3c5f5352915534
+/Google/Google code jam/.vscode/ipch/75f9f031919b90e3
+/Google/Google code jam/.vscode/ipch/3a3c43ada0ff30c1
+/UVa/.build
+/Leetcode/.build
+/Hackerrank/.build
+/Google/Kickstart/.build
+/Google/Kickstart/.vs
+/UVa/Graph/All pairs shortest paths/104/Arbitrage/.idea
+/UVa/Graph/All pairs shortest paths/104/Arbitrage/out/production/Arbitrage
+/UVa/Graph/All pairs shortest paths/436/.idea
+/UVa/Graph/All pairs shortest paths/436/out/production/Arbitrage II
+/Google/Miscellaneous/.build/.vs/Miscellaneous/v16
+/Google/Miscellaneous/.build
+/Codeforces/.build
+/Codeforces/.vs
+/Codeforces/out/build/x64-Debug
+/Codeforces/Practice/Round 503/B/.idea
+/Codeforces/Practice/Round 503/B/out/production/Badge
+/SPOJ/Practice/FISHER/.idea
+/SPOJ/Practice/FISHER/out/production/FISHER
+/GeeksForGeeks/build
+/UVa/out/build/x64-Debug
+/UVa/Folder.DotSettings.user
+/UVa/Graph/Graph traversal/Finding strongly connected components/1229/.idea
+/UVa/Graph/Graph traversal/Finding strongly connected components/1229/out/production/Sub-dictionary
+/Facebook/Hacker cup/.vs
+/Facebook/Hacker cup/out/build
+/Leetcode/.vs
+/leetcode/out/build/x64-Debug (default)
+/leetcode/out/build/x64-Debug
+/Hackerrank/Practice/Dictionaries and hashmaps/Frequency queries/.idea
+/Hackerrank/Practice/Dictionaries and hashmaps/Frequency queries/target/classes
+/Hackerrank/Practice/Dictionaries and hashmaps/Frequency queries/target/maven-archiver
+/Hackerrank/Practice/Dictionaries and hashmaps/Frequency queries/target/maven-status/maven-compiler-plugin
+/Hackerrank/Practice/Dictionaries and hashmaps/Frequency queries/target
+/Hackerrank/hs_err_pid9456.log
+/out/build/x64-Debug

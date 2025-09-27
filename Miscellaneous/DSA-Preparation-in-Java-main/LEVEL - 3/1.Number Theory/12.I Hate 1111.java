@@ -1,0 +1,1 @@
+//https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-interview-prep/number-theory/-i-hate-1111-official/ojquestion

@@ -1,0 +1,82 @@
+//https://hack.codingblocks.com/app/practice/1/1063/problem
+import java.util.*;
+public class Main {
+    public static void main(String args[]) {
+        // Your Code Here
+		Scanner scn=new Scanner(System.in);
+		String str=scn.nextLine();
+		ArrayList<Character> obj=new ArrayList<>();
+		HashMap<Character,Integer> hm=new HashMap<>();
+		for(int i=0;i<str.length();i++)
+		{
+			char ch=str.charAt(i);
+			if(hm.containsKey(ch)==false)
+			{
+				hm.put(ch,1);
+				obj.add(ch);
+			}
+			else
+			{
+				int val=hm.get(ch);
+				hm.put(ch,val+1);
+			}
+		}
+		Collections.sort(obj);
+		// System.out.println(obj);
+		StringBuilder res=new StringBuilder("");
+		for(int i=0;i<str.length();i++)
+		{
+          char ch=str.charAt(i);
+		//   System.out.println(ch);
+		  int lastIdx=findLastIdx(ch,obj);
+		//   System.out.println(lastIdx);
+		  generateWords(hm,obj,lastIdx,new StringBuilder(res.toString()),str);
+		  hm.put(ch,hm.get(ch)-1);
+		  res.append(ch);
+		}
+    }
+	public static void generateWords(HashMap<Character,Integer>hm,ArrayList<Character>obj,int lastIdx,StringBuilder res,String str)
+	{
+		// System.out.println(res);
+		if(res.length()==str.length())
+		{
+			System.out.println(res);
+			return ;
+		}
+		for(int i=0;i<lastIdx;i++)
+		{
+			int val=hm.get(obj.get(i));
+			if(val>0)
+			{
+				for(int j=1;j<=val;j++)
+				{
+					int idx=j;
+					while(idx-->0)
+					{
+						res.append(obj.get(i));
+					}
+					hm.put(obj.get(i),val-j);
+					generateWords(hm,obj,obj.size(),res,str);
+					idx=j;
+					while(idx-->0)
+					{
+						res.deleteCharAt(res.length()-1);
+					}
+					hm.put(obj.get(i),val);
+				}
+			}
+			
+		}
+	}
+	public static int findLastIdx(char ch,ArrayList<Character>obj)
+	{
+		for(int i=0;i<obj.size();i++)
+		{
+			// System.out.println(obj.get(i));
+			if(obj.get(i)==ch)
+			return i;
+		}
+		System.out.println("hello");
+		return -1;
+	}
+}

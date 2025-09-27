@@ -1,0 +1,32 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.*;
+
+class Main{
+    public static void main(String[] args) throws IOException{
+Scanner scn=new Scanner(System.in);
+int n=scn.nextInt();
+ 
+ArrayList<Integer> obj=new ArrayList<>();
+int sum=0;
+// br.readLine();
+for(int i=0;i<n;i++)
+{
+    int b=scn.nextInt();
+    obj.add(b);
+    sum+=b;
+}
+Collections.sort(obj);
+int sum2=0;
+int count=0;
+for(int i=obj.size()-1;i>=0;i--)
+{
+int val=obj.get(i);
+sum2+=val;
+count++;
+if(sum2>sum/2) break;
+}
+System.out.println(count);
+}
+}

@@ -1,0 +1,83 @@
+//Graph
+//  (0)-----40---(3)--2----   (4)
+//  |             |         |     \  
+//  10            10         3     8
+//  |             |         |       \
+//  (1)----10----(2)       (5)--3--(6)
+
+import java.io.*;
+import java.util.*;
+
+public class Main{
+   static public class Edge{
+      int vtx;
+      int nbr;
+      int wt;
+      Edge(int vtx,int nbr,int wt)
+      {
+         this.vtx=vtx;
+         this.nbr=nbr;
+         this.wt=wt;
+      }
+   }
+ public static void main(String []args)
+   {
+Scanner scn=new Scanner(System.in);
+   //  System.out.println("hek");
+     int no_of_vtx=scn.nextInt();
+     ArrayList<Edge> []graph = new ArrayList[no_of_vtx];
+     for(int i=0;i<graph.length;i++)
+     {
+        graph[i]=new ArrayList<>();
+     }
+   graph[0].add(new Edge(0,3,40));
+   graph[0].add(new Edge(0,1,10));
+
+   graph[1].add(new Edge(1,0,3));
+   graph[1].add(new Edge(1,2,10));
+
+   graph[2].add(new Edge(2,1,10)); 
+      graph[2].add(new Edge(2,3,10));
+
+         graph[3].add(new Edge(3,0,40)); 
+   graph[3].add(new Edge(3,2,10)); 
+   graph[3].add(new Edge(3,4,3)); 
+
+   graph[4].add(new Edge(4,3,2)); 
+   graph[4].add(new Edge(4,5,3)); 
+   graph[4].add(new Edge(4,6,8)); 
+
+      graph[5].add(new Edge(5,4,3)); 
+   graph[5].add(new Edge(5,6,3)); 
+
+      graph[6].add(new Edge(6,4,8)); 
+   graph[6].add(new Edge(6,5,3)); 
+
+for(int i=0;i<graph.length;i++)
+{
+   for(int j=0;j<graph[i].size();j++)
+   {
+Edge e=graph[i].get(j);
+System.out.println(e.vtx+"-"+e.nbr+"@"+e.wt);
+   }
+}
+  }
+}
+
+//Output
+//0-3@40
+// 0-1@10
+// 1-0@3
+// 1-2@10
+// 2-1@10
+// 2-3@10
+// 3-0@40
+// 3-2@10
+// 3-4@3
+// 4-3@2
+// 4-5@3
+// 4-6@8
+// 5-4@3
+// 5-6@3
+// 6-4@8
+// 6-5@3
